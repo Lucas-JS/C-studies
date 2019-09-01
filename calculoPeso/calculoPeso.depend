@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476066188 source:c:\users\lucas\documents\codeprojects\calculopeso\main.c
+	<stdio.h>
+	<stdlib.h>
+

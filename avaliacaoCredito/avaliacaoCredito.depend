@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476064964 source:c:\users\lucas\documents\codeprojects\avaliacaocredito\main.c
+	<stdio.h>
+	<stdlib.h>
+

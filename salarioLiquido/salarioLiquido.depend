@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476063252 source:c:\users\lucas\documents\codeprojects\salarioliquido\main.c
+	<stdio.h>
+	<stdlib.h>
+

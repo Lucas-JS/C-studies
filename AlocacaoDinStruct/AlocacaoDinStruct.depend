@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480180365 source:c:\users\lucianofreire\dropbox\aulas\tecnicas programacao\tecnicasprogramacao\codigos 2016_2\alocacaodinstruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
